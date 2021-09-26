@@ -8,17 +8,17 @@ A template project for a Github page
 - and share them on freely hosted Github pages
 - it is based primarily on Markdown &rarr; easy collaboration and version control
 - you can host multiple presentations
-- to see its full power, just check the [getting started](https://a-nau.github.io/markdownslides/getting_started) presentation
+- to see its full power, just check the [getting started](https://ama-comm.github.io/markdownslides/getting_started) presentation
 
 It is powered by [reveal.js](https://revealjs.com/), an awesome project by [Hakim El Hattab](https://twitter.com/hakimel) and based on and inspired by [reveal-jekyll](https://github.com/tasmo/reveal-jekyll) by [Thomas Friese](https://twitter.com/_tasmo)
 
 ## How to set up and use it?
 
-Fork the project and see the [introduction](https://a-nau.github.io/markdownslides/getting_started#/02_intro) slides!
+Fork the project and see the [introduction](https://ama-comm.github.io/markdownslides/getting_started#/02_intro) slides!
 
 ## What can it do?
 
-Check the [examples](https://a-nau.github.io/markdownslides/getting_started#/03_examples)!
+Check the [examples](https://ama-comm.github.io/markdownslides/getting_started#/03_examples)!
 
 ---
 
